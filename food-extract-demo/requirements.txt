@@ -1,0 +1,9 @@
+gradio
+transformers
+trl
+datasets
+torch
+# trackio
+# matplotlib
+# huggingface_hub
+# git+https://github.com/toon-format/toon-python.git
